@@ -1,0 +1,116 @@
+Script started on Tue 19 Sep 2023 08:40:16 PM CDT
+]0;it1032ao@csci4:~/CSCI301/Project2/task2[?1034h[it1032ao@csci4 task2]$ exit./a.out
+Welcome to XXX SHOPPING CENTER.
+Enter the item you selected as the following order :
+name unitPrice quantity
+( Name can not contain any space. Otherwise errors happen!) 
+--> T-shirt 19.99 2
+Want to continue y/n-->y
+
+--> Sweater 39.99 1 2
+Want to continue y/n-->y
+
+--> iphone_case 25.50 3
+Want to continue y/n-->y
+
+--> Towel 9.99 5
+Want to continue y/n-->n
+
+Here is your order:
+-------------------------------------------------
+Name           Unit_Price            Quantity    
+T-shirt        19.99                 2           
+Sweater        39.99                 2           
+iphone_case    25.5                  3           
+Towel          9.99                  5           
+
+The total charge is $246.41
+-------------------------------------------------
+
+Want to modify your order ? y / n-- >y
+
+What do you want ? 
+Enter 1: add 
+2: remove 
+3: change quantity 
+-->1
+Enter the item to add as the following order: 
+name unitPrice quantity
+( Name can not contain any space.Otherwise errors happen!) 
+--> shoe 99.99 1
+
+The item has been added.
+
+Want to modify your order ? y / n-- >y
+
+What do you want ? 
+Enter 1: add 
+2: remove 
+3: change quantity 
+-->2
+Enter the item to remove as the following order: 
+name unitPrice quantity
+( Name can not contain any space.Otherwise errors happen!) 
+--> Sweater 29.99 2
+
+No such item in your shopping cart!
+
+Want to modify your order ? y / n-- >y
+
+What do you want ? 
+Enter 1: add 
+2: remove 
+3: change quantity 
+-->2
+Enter the item to remove as the following order: 
+name unitPrice quantity
+( Name can not contain any space.Otherwise errors happen!) 
+--> Sweater 39.99 2
+
+The item has been removed.
+
+Want to modify your order ? y / n-- >y
+
+What do you want ? 
+Enter 1: add 
+2: remove 
+3: change quantity 
+-->3
+Enter the item to change as the following order: 
+name unitPrice quantity
+( Name can not contain any space.Otherwise errors happen!) 
+--> testitem 44.44 44
+Item is not in the cart.
+Want to modify your order ? y / n-- >y
+
+What do you want ? 
+Enter 1: add 
+2: remove 
+3: change quantity 
+-->3
+Enter the item to change as the following order: 
+name unitPrice quantity
+( Name can not contain any space.Otherwise errors happen!) 
+--> Towel 9.99 5
+Enter a new quantity-- >-2
+enter a valid quanitiy
+Enter a new quantity-- >2
+
+Want to modify your order ? y / n-- >n
+
+
+ Here is your updated order: 
+-------------------------------------------------
+Name           Unit_Price            Quantity    
+T-shirt        19.99                 2           
+shoe           99.99                 1           
+iphone_case    25.5                  3           
+Towel          9.99                  2           
+
+The total charge is $236.45
+-------------------------------------------------
+
+Thank you for shopping in XXX SHOPPING CENTER.]0;it1032ao@csci4:~/CSCI301/Project2/task2[it1032ao@csci4 task2]$ exit
+exit
+
+Script done on Tue 19 Sep 2023 08:43:20 PM CDT

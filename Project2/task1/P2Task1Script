@@ -1,0 +1,17 @@
+Script started on Tue 19 Sep 2023 08:45:35 PM CDT
+]0;it1032ao@csci4:~/CSCI301/Project2/task1[?1034h[it1032ao@csci4 task1]$ exit./a.out
+Enter the name, price and quanity of the item: steak 10.99 5
+
+Item name: candy
+Item price: 10
+Item Quantity: 1
+Item name: steak
+Item price: 10.99
+Item Quantity: 5
+Item name: mountain bike
+Item price: 155.55
+Item Quantity: 6
+item 1 and item 4 not the same]0;it1032ao@csci4:~/CSCI301/Project2/task1[it1032ao@csci4 task1]$ exit
+exit
+
+Script done on Tue 19 Sep 2023 08:46:41 PM CDT
