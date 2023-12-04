@@ -1,0 +1,35 @@
+Script started on Wed 15 Nov 2023 12:30:09 PM CST
+]0;it1032ao@csci4:~/CSCI301/Project7/BankSystem[?1034h[it1032ao@csci4 BankSystem]$ script testFileP1[10P./a.out
+Event 1: A 10 5
+Event 2: D 20 3
+A 10 1
+New values for Event 3: A 10 1
+Comparing Event 1 and Event 3:
+Event 1 < Event 3: False
+Event 1 > Event 3: False
+Event 1 == Event 3: True
+Event 1 != Event 3: False
+]0;it1032ao@csci4:~/CSCI301/Project7/BankSystem[it1032ao@csci4 BankSystem]$ ./a.out
+Event 1: A 10 5
+Event 2: D 20 3
+B 5 10
+New values for Event 3: B 5 10
+Comparing Event 1 and Event 3:
+Event 1 < Event 3: True
+Event 1 > Event 3: False
+Event 1 == Event 3: False
+Event 1 != Event 3: True
+]0;it1032ao@csci4:~/CSCI301/Project7/BankSystem[it1032ao@csci4 BankSystem]$ ./a.out
+Event 1 A 10 5
+Event 2 D 20 3
+F 100 1
+New values for Event 3: F 100 1
+Comparing Event 1 and Event 3:
+Event 1 < Event 3: False
+Event 1 > Event 3: True
+Event 1 == Event 3: False
+Event 1 != Event 3: True
+]0;it1032ao@csci4:~/CSCI301/Project7/BankSystem[it1032ao@csci4 BankSystem]$ exit
+exit
+
+Script done on Wed 15 Nov 2023 12:30:46 PM CST

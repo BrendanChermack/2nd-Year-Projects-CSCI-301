@@ -1,0 +1,30 @@
+Script started on Wed 15 Nov 2023 09:56:40 PM CST
+]0;it1032ao@csci4:~/CSCI301/Project7/BankSystem[?1034h[it1032ao@csci4 BankSystem]$ exitixtxit./a.out
+Processing an arrival event at time: 1
+Processing an arrival event at time: 2
+Processing an arrival event at time: 4
+Processing an departure event at time: 6
+Processing an departure event at time: 11
+Processing an departure event at time: 16
+Processing an arrival event at time: 20
+Processing an arrival event at time: 22
+Processing an arrival event at time: 24
+Processing an departure event at time: 25
+Processing an arrival event at time: 26
+Processing an arrival event at time: 28
+Processing an arrival event at time: 30
+Processing an departure event at time: 30
+Processing an departure event at time: 35
+Processing an departure event at time: 40
+Processing an departure event at time: 45
+Processing an departure event at time: 50
+Processing an arrival event at time: 88
+Processing an departure event at time: 91
+
+Final Stats: 
+Total number of customers processed : 10
+Average amount of time spent waiting: 5.6
+]0;it1032ao@csci4:~/CSCI301/Project7/BankSystem[it1032ao@csci4 BankSystem]$ exit
+exit
+
+Script done on Wed 15 Nov 2023 09:56:47 PM CST
