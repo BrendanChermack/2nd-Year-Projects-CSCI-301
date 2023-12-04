@@ -1,0 +1,44 @@
+Script started on Fri 01 Sep 2023 08:36:12 PM CDT
+]0;it1032ao@csci4:~/CSCI301/Project1/task1[?1034h[it1032ao@csci4 task1]$ ./a.outg++ newfraction2.cpp project1_task3.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[Kg++ newfraction2.cpp project1_task3.cpp [C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kfraction.cpp project1_task1.cpp 
+]0;it1032ao@csci4:~/CSCI301/Project1/task1[it1032ao@csci4 task1]$ g++ fraction.cpp project1_task1.cpp [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+Enter the first fraction: numerator denominator(press enter after each number)
+1
+2
+Enter the second fraction: numerator denominator(press enter after each number)
+1
+3
+The two fractions entered are
+f1 = 1/2
+f1's numerator is 1
+f1's denominator is 2
+f2 = 1/3
+f1's new fraction is 91/100]0;it1032ao@csci4:~/CSCI301/Project1/task1[it1032ao@csci4 task1]$ ./a.out
+Enter the first fraction: numerator denominator(press enter after each number)
+1
+5
+Enter the second fraction: numerator denominator(press enter after each number)
+1
+6
+The two fractions entered are
+f1 = 1/5
+f1's numerator is 1
+f1's denominator is 5
+f2 = 1/6
+f1's new fraction is 91/100]0;it1032ao@csci4:~/CSCI301/Project1/task1[it1032ao@csci4 task1]$ ./a.out
+Enter the first fraction: numerator denominator(press enter after each number)
+100
+100
+Enter the second fraction: numerator denominator(press enter after each number)
+111
+222
+The two fractions entered are
+f1 = 100/100
+f1's numerator is 100
+f1's denominator is 100
+f2 = 111/222
+f1's new fraction is 91/100]0;it1032ao@csci4:~/CSCI301/Project1/task1[it1032ao@csci4 task1]$ ./a.out[K[K[K[K[K[K[Kend
+bash: end: command not found...
+]0;it1032ao@csci4:~/CSCI301/Project1/task1[it1032ao@csci4 task1]$ exit
+exit
+
+Script done on Fri 01 Sep 2023 08:37:16 PM CDT
