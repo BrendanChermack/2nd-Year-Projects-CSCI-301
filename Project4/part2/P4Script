@@ -1,0 +1,93 @@
+Script started on Wed 11 Oct 2023 02:31:50 PM CDT
+]0;it1032ao@csci4:~/CSCI301/Project4/part2[?1034h[it1032ao@csci4 part2]$ ./a.outg++ main.cpp
+]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ g++ main.cpp[5P./a.out
+The following words in the file “toBeSpellChecked.txt” are not spelled correctly :
+In
+a
+prak
+beyond
+a
+hill
+a
+kid
+flew
+a
+kite
+near
+a
+river
+where
+a
+frog
+jumped
+from
+lily
+to
+lily
+Nearby
+under
+a
+sun
+umbrella
+a
+queen
+with
+a
+rad
+hat
+sipped
+lemmon
+juice
+and
+read
+a
+book
+about
+a
+zebra
+The
+zebra
+lived
+on
+an
+island
+and
+slept
+under
+the
+shade
+of
+a
+tere
+draeming
+of
+a
+vast
+ocean
+where
+fish
+echoed
+songs
+of
+moons
+past
+Thanks for using the spell checker system.]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ ./a.outg++ main.cpp
+]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ g++ main.cpp[5P./a.out
+The following words in the file “toBeSpellChecked.txt” are not spelled correctly :
+Thanks for using the spell checker system.]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ ./a.outg++ main.cpp
+]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ g++ main.cpp[5P./a.out
+The following words in the file “toBeSpellChecked.txt” are not spelled correctly :
+prak
+rad
+lemmon
+tere
+draeming
+Thanks for using the spell checker system.]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ ./a.outg++ main.cpp
+]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ g++ main.cpp[5P./a.out
+The following words in the file “toBeSpellChecked.txt” are not spelled correctly :
+Thanks for using the spell checker system.]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ ./a.outg++ main.cpp
+]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ g++ main.cpp[5P./a.out
+error file not found]0;it1032ao@csci4:~/CSCI301/Project4/part2[it1032ao@csci4 part2]$ exit
+exit
+
+Script done on Wed 11 Oct 2023 02:35:35 PM CDT
