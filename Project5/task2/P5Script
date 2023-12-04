@@ -1,0 +1,48 @@
+Script started on Mon 23 Oct 2023 02:13:55 PM CDT
+]0;it1032ao@csci4:~/CSCI301/Project5/task1[?1034h[it1032ao@csci4 task1]$ g++ test.cpp[4Ptest.cpp[1P./a.out
+Welcome to the Infix Calculator!
+Enter your choice:
+1: Infix equation to solve
+2: Exit program.
+1
+Enter a valid infix equation:
+3+5*(2-8)
+The solved post fix version of your infix equation is: -27
+Enter your choice again:
+1: Infix equation to solve
+2: Exit program.
+1
+Enter a valid infix equation:
+4-(4/2*6)
+The solved post fix version of your infix equation is: -8
+Enter your choice again:
+1: Infix equation to solve
+2: Exit program.
+1
+Enter a valid infix equation:
+5*(4/2/2)+9
+The solved post fix version of your infix equation is: 14
+Enter your choice again:
+1: Infix equation to solve
+2: Exit program.
+1
+Enter a valid infix equation:
+-1+5
+invalid infix eqaution.
+Enter your choice again:
+1: Infix equation to solve
+2: Exit program.
+1
+Enter a valid infix equation:
+7*(6+3
+invalid infix eqaution.
+Enter your choice again:
+1: Infix equation to solve
+2: Exit program.
+2
+
+Thanks for using the Infix Calculator.
+]0;it1032ao@csci4:~/CSCI301/Project5/task1[it1032ao@csci4 task1]$ exit
+exit
+
+Script done on Mon 23 Oct 2023 02:18:26 PM CDT
