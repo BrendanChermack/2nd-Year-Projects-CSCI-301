@@ -1,0 +1,158 @@
+Script started on Wed 06 Dec 2023 08:29:01 PM CST
+]0;it1032ao@csci4:~/CSCI301/Project8[?1034h[it1032ao@csci4 Project8]$ ./a.out
+Welcome to xxx database system. Please enter the file that initial people list : 
+db.txt
+Jason 8 6 1992
+Alice 6 2 1990
+Cat 12 2 1999
+Mary 4 5 1993
+John 7 4 1995
+Joe 1 10 1998
+Jim 8 4 2000
+
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+1
+To add, enter the person's name and birthday (month day year): Wendy 8 8 1989
+Do you want to add another person? (y/n): y
+Ken 4 14 1987
+Do you want to add another person? (y/n): y
+Apple 8 7 1956
+Do you want to add another person? (y/n): n
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+5
+Jason 8 6 1992
+Alice 6 2 1990
+Cat 12 2 1999
+Apple 8 7 1956
+Mary 4 5 1993
+John 7 4 1995
+Joe 1 10 1998
+Jim 8 4 2000
+Ken 4 14 1987
+Wendy 8 8 1989
+
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+2
+To remove, enter the person's name and birthday (month day year): James 1 3 1987
+Person not found. 
+Do you want to remove another person? (y/n): y
+Mary 4 5 1993
+Person removed from the database. 
+Do you want to remove another person? (y/n): n
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+5
+Jason 8 6 1992
+Alice 6 2 1990
+Cat 12 2 1999
+Apple 8 7 1956
+Wendy 8 8 1989
+John 7 4 1995
+Joe 1 10 1998
+Jim 8 4 2000
+Ken 4 14 1987
+
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+3
+To modify, enter the person's name and birthday (month day year): Jim 8 4 2000
+Found this person in the database.This person's data has been removed.
+Enter this person's new information: name and birthday (month day year): James 8 4 2000
+Do you want to modify another person? (y/n): n
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+5
+Jason 8 6 1992
+Alice 6 2 1990
+Cat 12 2 1999
+Apple 8 7 1956
+James 8 4 2000
+Wendy 8 8 1989
+John 7 4 1995
+Joe 1 10 1998
+Ken 4 14 1987
+
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+4
+To search, enter the person's name and birthday (month day year): James 8 4 2000
+Found this person in the database: 
+James 8 4 2000
+Do you want to search again? (y/n): n
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+6
+Alice 6 2 1990
+Apple 8 7 1956
+Cat 12 2 1999
+James 8 4 2000
+Jason 8 6 1992
+Joe 1 10 1998
+John 7 4 1995
+Ken 4 14 1987
+Wendy 8 8 1989
+
+Please enter your option
+1. Add a person
+2. Remove a person
+3. Modify the database
+4. Search for a person in the database
+5. Display the database
+6. Display the database in sorted order
+7. Save and Exit
+7
+ The updated database has been saved to updated_db.txt Bye!]0;it1032ao@csci4:~/CSCI301/Project8[it1032ao@csci4 Project8]$ exit
+exit
+
+Script done on Wed 06 Dec 2023 08:31:58 PM CST
